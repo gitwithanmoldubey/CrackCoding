@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">✨ CrackCoding ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -77,3 +78,6 @@ cd frontend
 npm install
 npm run dev
 ```
+=======
+# CrackCoding
+>>>>>>> d6427fff15cf4ac97da7f644c8f73138a11e3a02
